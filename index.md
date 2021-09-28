@@ -12,7 +12,7 @@
       - [Top 3 Favorite Anime/Manga](#top-3-favorite-animemanga)
       - [Favorite Budget Meal](#favorite-budget-meal)
   - [**Expectations for CSE 110**](#expectations-for-cse-110)
-        - [Coco making the cut](#coco-making-the-cut)
+        - [Coco making the cut :)](#coco-making-the-cut-)
 ### **Who am I?**
 Hi! My name's Ruby, some people call me RC (first letter of my first and middle name). You might recognize me in class as the girl with the crazy hair colors. Currently I am a *senior* (YAY) and am graduating in the Spring of 2022! Some of my favorite things include playing video games, binge watching Netflix and anime movies/series, going on food adventures (in Tijuana), and hanging out with friends. ![](images/Screen%20Shot%202021-09-27%20at%208.00.25%20PM.png) ![](images/Screen%20Shot%202021-09-27%20at%208.00.35%20PM.png)
 
@@ -59,5 +59,5 @@ I'll update these as the quarter continues:
 I'm hoping to do well in this class, gain experience and insights in the reality of Software Development and Engineering, and have a great time. I plan on putting forth a lot of work and effort in this class, especially considering that it is a group effort (which, in my opinion, ends up being more work than an individual task). So, in the words of Elle Woods: 
 > I'll show you how valuable ~~Elle Woods~~ Ruby Marroquin can be!
 
-##### Coco making the cut 
+##### Coco making the cut :)
 ![](images/image0.jpg)
